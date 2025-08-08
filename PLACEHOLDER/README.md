@@ -3,8 +3,11 @@
 ## Info
 
 Link: https://linkedin.com/in/kamil-rogala
+
 Difficulty: `easy`
+
 Tech category: `Windows` `Web`
+
 Team: `red`
 
 ## Scenarion
